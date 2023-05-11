@@ -2,5 +2,6 @@
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "n8n-utils.nodeStats.token": "n8n_api_85480270c4a066aaa985fb7508391210215d4c01f31d884e447def06759570f1c61aece95d04f8ef"
 }
